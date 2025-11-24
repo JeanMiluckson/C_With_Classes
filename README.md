@@ -1,14 +1,10 @@
 # C++
 
 
-**Using for** | 
----|
-**Games Development** |
-**Embedded System** |
-**Application Software Development** |
+**Using for** | Aplication
+---|---|---
+**Games Development** | **Unreal** |
+**Embedded System** | **Microcontroller** |
+**Application Software Development** | **Qt Creator** |
 
-Unreal
 
-Microcontroller
-
-Qt Creator
