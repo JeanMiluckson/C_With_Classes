@@ -1,7 +1,7 @@
 # C++
 
 
-Usigng for | 
+**Using for** | 
 ---|
 **Games Development** |
 **Embedded System** |
