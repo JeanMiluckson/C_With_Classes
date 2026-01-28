@@ -7,15 +7,15 @@ int main()
     int b;
     int c;
 
-    cout << "Digite o valor de a: ";
+    cout << endl << "Digite o valor de a: ";
     cin >> a;
 
-    cout << "Digite o valor de b: " << endl;
+    cout << "Digite o valor de b: ";
     cin >> b;
 
     // Adição
     c = a + b;
-    cout << "adicao: " << c << endl;
+    cout << endl << "adicao: " << c << endl;
 
     // Subtração
     c = a - b;
@@ -31,7 +31,7 @@ int main()
 
     // Resto da divisão
     c = a % b;
-    cout << "resto da divisao: " << c << endl;
+    cout << "resto da divisao: " << c << endl << endl;
 
 
     return 0;
