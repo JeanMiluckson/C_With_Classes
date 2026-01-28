@@ -12,7 +12,7 @@ int main()
     // 'double' e frequentemente usado para valores monetarios ou de alta precisao
 
     //3. Variavel para um caractere (char)
-    char inicial_nome = 'J';
+    char inicial_nome = 'K';
     // Note o uso de aspas simples ('') para um unido 'char'
 
     //4. Variavel para estado (booleano)
