@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/aula_02.dir/main.cpp.o -o aula_02 

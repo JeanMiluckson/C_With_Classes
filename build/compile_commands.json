@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/jeanetienne/Documents/GitHub/C_With_Classes/build/aula_01",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/aula_01.dir/main.cpp.o -c /home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_01/main.cpp",
+  "file": "/home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_01/main.cpp",
+  "output": "aula_01/CMakeFiles/aula_01.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jeanetienne/Documents/GitHub/C_With_Classes/build/aula_02",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/aula_02.dir/main.cpp.o -c /home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_02/main.cpp",
+  "file": "/home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_02/main.cpp",
+  "output": "aula_02/CMakeFiles/aula_02.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jeanetienne/Documents/GitHub/C_With_Classes/build/aula_03",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/aula_03.dir/main.cpp.o -c /home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_03/main.cpp",
+  "file": "/home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_03/main.cpp",
+  "output": "aula_03/CMakeFiles/aula_03.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jeanetienne/Documents/GitHub/C_With_Classes/build/aula_04",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/aula_04.dir/main.cpp.o -c /home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_04/main.cpp",
+  "file": "/home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons/aula_04/main.cpp",
+  "output": "aula_04/CMakeFiles/aula_04.dir/main.cpp.o"
+}
+]

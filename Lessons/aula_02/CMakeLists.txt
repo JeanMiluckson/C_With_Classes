@@ -1,0 +1,1 @@
+add_executable(aula_02 main.cpp)

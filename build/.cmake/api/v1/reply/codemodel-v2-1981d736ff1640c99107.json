@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "aula_01",
+					"jsonFile" : "directory-aula_01-Debug-1de2a8e236d8955d50f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "aula_01",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "aula_02",
+					"jsonFile" : "directory-aula_02-Debug-2f48b8ef4b8cd791d680.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "aula_02",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "aula_03",
+					"jsonFile" : "directory-aula_03-Debug-78f8d294ef7a0e603c2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "aula_03",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "aula_04",
+					"jsonFile" : "directory-aula_04-Debug-bd3a77780284c6072a31.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "aula_04",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "C_WITH_CLASSES",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "aula_01::@5eb0b26bc92d2a3e05a2",
+					"jsonFile" : "target-aula_01-Debug-386c2bf67b77935e4349.json",
+					"name" : "aula_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "aula_02::@f18937e40291fa43137b",
+					"jsonFile" : "target-aula_02-Debug-9587d87362f1001b0b93.json",
+					"name" : "aula_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "aula_03::@5ed8fe3c6b81e9c0418a",
+					"jsonFile" : "target-aula_03-Debug-8cef88040e50610f516a.json",
+					"name" : "aula_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "aula_04::@e8c93ad503afab503968",
+					"jsonFile" : "target-aula_04-Debug-38f530a257b51553a630.json",
+					"name" : "aula_04",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jeanetienne/Documents/GitHub/C_With_Classes/build",
+		"source" : "/home/jeanetienne/Documents/GitHub/C_With_Classes/Lessons"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
